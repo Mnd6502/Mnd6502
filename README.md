@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mnd6502
-- 👀 I’m interested in Actuarial Science and Data Science
-- 🌱 I’m currently learning at DePauw University
+- 👀 I’m interested in Actuarial Science and Financial Mathematics
+- 🌱 I’m currently studying at Florida State University
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: https://www.linkedin.com/in/minh-do-471366221/
 
